@@ -1,0 +1,18 @@
+{
+    "name": "Oculus.Integration.Spatializer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:319cee27550554e478891ab7a3aee014"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
