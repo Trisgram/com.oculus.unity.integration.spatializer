@@ -24,7 +24,6 @@ using UnityEngine;
 using System.Runtime.InteropServices;
 using AOT;
 
-
 public class OculusSpatializerUnity : MonoBehaviour
 {
     public LayerMask layerMask = -1;
