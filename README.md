@@ -17,7 +17,7 @@ Unofficial part of [Oculus Unity Integration](https://developer.oculus.com/downl
   - `Scope(s):`
     - `com.oculus`
 - Apply
-- Open "Window->"Unity Package Manager"
+- Open `Window` -> `Unity Package Manager`
 - Change the Registry from Unity to `My Registries`
 - Add the `Oculus Integration Spatializer` package
 
